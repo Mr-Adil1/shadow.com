@@ -1,0 +1,3 @@
+Hi, I am Adil. I'm 19 years old I am front end web developer. and this is my box-shadow project built in react-js. which I made while learning to react-js.
+
+In this website you can copy the box-shadows code by clicking on the box, and you can also generate your box shadow

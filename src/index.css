@@ -1,0 +1,45 @@
+::-webkit-scrollbar {
+  width: 7px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #0d6efd;
+  width: 7px;
+  border-radius: 10px;
+}
+
+body {
+  background: #f5f4f4f1 !important;
+}
+
+.s-container .s-row .s-col {
+  transform: scale(1);
+  transition: transform 0.2s linear;
+}
+.s-container .s-row .s-col:hover {
+  transform: scale(1.1);
+}
+
+.loadingball {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 20px;
+  left: -30px;
+  border-radius: 50%;
+  background: #0d6efd;
+  box-shadow: 0px 10px 2px 1px rgba(0, 0, 0, 0.5);
+  animation: loading infinite 0.4s alternate;
+}
+
+@keyframes loading {
+  0% {
+    top: -5px;
+    box-shadow: 0px 20px 2px -3px rgba(0, 0, 0, 0.5);
+  }
+  100% {
+    top: 20px;
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "shadow": [
+    {
+      "shd": {
+        "val": "0px 0px 2px 3px #aaaaaa",
+        "name":"Adil",
+        "id": 1
+      }
+    },
+    {
+      "shd": {
+        "val": "0px 0px 5px 11px rgba(0,0,0,0.12)",
+        "name":"Jhone",
+        "id": 2
+      }
+    },
+    {
+      "shd": {
+        "val": "0 -10px 20px -5px rgba(115,115,115,0.75)",
+        "name":"Khan",
+        "id": 3
+      }
+    },
+    {
+      "shd": {
+        "val": "0 0px 20px -5px rgba(115,115,115,0.75)",
+        "name":"Umair",
+        "id": 4
+      }
+    },
+    {
+      "shd": {
+        "val": "0 -10px 20px -5px rgba(115,115,115,0.75)",
+        "name":"Ali",
+        "id": 5
+      }
+    },
+    {
+      "shd": {
+        "val": " 0 0 20px rgba(115,115,115,0.75)",
+        "name":"Sara",
+        "id": 6
+      }
+    },
+    {
+      "shd": {
+        "val": "0 -10px 20px -5px rgba(115,115,115,0.75),10px 0 20px -5px rgba(115,115,115,0.75)",
+        "name":"Sandy",
+        "id": 7
+      }
+    },
+    {
+      "shd": {
+        "val": " 0 -10px 20px -5px rgba(115,115,115,0.75),0 10px 20px -5px rgba(115,115,115,0.75)",
+        "name":"Rayan",
+        "id": 8
+      }
+    },
+    {
+      "shd": {
+        "val": " 0 -10px 20px -5px rgba(115,115,115,0.75),-10px 0 20px -5px rgba(115,115,115,0.75)",
+        "name":"Mick",
+        "id": 9
+      }
+    },
+    {
+      "shd": {
+        "val": " 0 10px 20px -5px rgba(115,115,115,0.75),10px 0 20px -5px rgba(115,115,115,0.75)",
+        "name":"Doe",
+        "id": 10
+      }
+    },
+    {
+      "shd": {
+        "val": " -10px 0 20px -5px rgba(115,115,115,0.75),10px 0 20px -5px rgba(115,115,115,0.75)",
+        "name":"Jully",
+        "id": 11
+      }
+    },
+    {
+      "shd": {
+        "val": " 0 10px 20px -5px rgba(115,115,115,0.75),-10px 0 20px -5px rgba(115,115,115,0.75)",
+        "name":"Jany",
+        "id": 12
+      }
+    }
+  ]
+}
