@@ -64,7 +64,7 @@ class Shadows extends Component {
                   <OverlayTrigger
                     /* A unique identifier for each element in the array. */
                     key={elm.shd.id}
-                    overlay={<Tooltip id="tooltip">Shadow by {elm.shd.id}</Tooltip>}
+                    overlay={<Tooltip id="tooltip">Shadow by {elm.shd.name}</Tooltip>}
                   >
                     <div
                       className="s-col position-relative col-lg-3 col-md-2 col-sm-4 mb-4 mb-lg-0 d-flex flex-column justify-content-center align-items-center gap-2 bg-white border rounded"
